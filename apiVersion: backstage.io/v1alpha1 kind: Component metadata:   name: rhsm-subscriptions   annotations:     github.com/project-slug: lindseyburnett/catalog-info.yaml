@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rhsm-subscriptions
+  annotations:
+    github.com/project-slug: lindseyburnett/rhsm-subscriptions
+spec:
+  type: other
+  lifecycle: unknown
+  owner: lindseyburnett
