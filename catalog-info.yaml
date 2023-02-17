@@ -4,6 +4,7 @@ metadata:
   name: rhsm-subscriptions
   annotations:
     github.com/project-slug: lindseyburnett/rhsm-subscriptions
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
